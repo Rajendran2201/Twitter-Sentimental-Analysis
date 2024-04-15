@@ -64,7 +64,7 @@ python main.py
 - An example of using the model to classify a new tweet is provided.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Rajendran2201/Twitter-Sentimental-Analysis/blob/main/LICENSE) file for details.
 
 ## Contribution
 Contributions are welcome! Please create a new issue or submit a pull request for any enhancements or bug fixes.
