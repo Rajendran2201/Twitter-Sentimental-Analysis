@@ -33,7 +33,7 @@ git clone https://github.com/Rajendran2201/Twitter-Sentimental-Analysis/tree/mai
 2. Navigate to the project directory:
 
 ```bash
-cd twitter-sentiment-analysis
+cd Twitter-Sentimental-Analysis
 ```
 
 3. Run the main Python script:
