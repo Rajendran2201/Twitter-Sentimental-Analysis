@@ -27,7 +27,7 @@ python -m nltk.downloader stopwords
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/twitter-sentiment-analysis.git
+git clone https://github.com/your_username/twitter-sentiment-analysis.git](https://github.com/Rajendran2201/Twitter-Sentimental-Analysis/tree/main
 ```
 
 2. Navigate to the project directory:
